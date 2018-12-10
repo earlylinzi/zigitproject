@@ -1,0 +1,3 @@
+[submodule "subgit"]
+	path = subgit
+	url = https://github.com/earlylinzi/subgit.git
